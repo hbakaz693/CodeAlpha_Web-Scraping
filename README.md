@@ -119,3 +119,33 @@ python main.py
 
   Books to Scrape
 </a>
+
+
+<h2>10. Future Improvements</h2>
+
+<ul>
+  <li>Implement web scraping using Scrapy for better scalability.</li>
+  <li>Store collected data in a SQL database (MySQL, PostgreSQL).</li>
+  <li>Create interactive data visualizations and dashboards.</li>
+  <li>Schedule automatic data collection.</li>
+  <li>Perform advanced data analysis on the collected dataset.</li>
+</ul>
+
+<h2>11. Author</h2>
+
+<div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="120">
+  
+  <h3>Hicham Bakaz</h3>
+
+  <p>
+    Master's Student in Intelligent Web and Data Science
+  </p>
+
+  <p>
+    Passionate about Data Science, Artificial Intelligence,
+    Machine Learning, and Web Development.
+  </p>
+</div>
+
+
